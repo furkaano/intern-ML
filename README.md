@@ -1,6 +1,6 @@
 # ANALYSIS OF DATASETS
 This repository is about analysis of datasets.
 
-* TITANIC DATASET -> [Analysis](intern-ML/titanic/)
+* TITANIC DATASET -> [Analysis](titanic/)
 
-* TWO SIGMA : RENTING HOUSE -> [Analysis](intern-ML/NewYork House Rent Interest/)
+* TWO SIGMA : RENTING HOUSE -> [Analysis](TwoSigma-RentingHouse/)
